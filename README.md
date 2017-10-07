@@ -9,3 +9,7 @@ To set donnerstaggeburt up, you'll need access to a server. Almost everything do
 ```
 
 And yeah, it's based on PHP.
+
+By the way, I wrote this version of the bot on GitHub, so I have actually never tried out if this version works or not.
+
+#antonist1schlechtermensch
