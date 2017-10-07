@@ -1,6 +1,6 @@
 # donnerstaggeburt
 
-A little Twitter bot.
+A little Twitter bot. You can find the original at https://twitter.com/donnerstageburt.
 
 To set donnerstaggeburt up, you'll need access to a server. Almost everything donnerstaggeburt does is powered by a simple crontab entry:
 
