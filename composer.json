@@ -1,0 +1,6 @@
+{
+	"name": "drweissbrot/donnerstaggeburt",
+	"require": {
+		"jublonet/codebird-php": "^3.1"
+	}
+}
